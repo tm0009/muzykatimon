@@ -14,3 +14,8 @@
 т - 2
 а - 1
 к - 1
+![nodestak](https://github.com/user-attachments/assets/67846219-a2e7-4ecf-b664-157a8a9e1735)
+
+
+
+
